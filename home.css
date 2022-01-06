@@ -297,6 +297,25 @@ body {
   background-color: #9eafbf;
 }
 
+.item-box-l {
+  background-color: white;
+  height: 180px;
+  width: 300px;
+  margin-right: 25px;
+}
+
+.item-box-r{
+  background-color: white;
+  height: 180px;
+  width: 300px;
+}
+
+.img-s8{
+  height: 40px;
+  width: 40px;
+  margin-top:40px;
+}
+
 @media (max-width: 775px) {
   .section .section-container {
     width: 340px;
